@@ -1,6 +1,8 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default function Servies() {
+  
   return (
     <>
       <div className="text-center">
@@ -32,9 +34,9 @@ export default function Servies() {
               where every moment is cherished. Book your dream wedding at our
               banquet hall today!"
             </p><br/><br/><br/>
-            <a href="/" className="btn btn-primary">
+            <Link to="/booking" className="btn btn-primary">
               Book now
-            </a>
+            </Link>
           </div>
         </div>
 
@@ -52,9 +54,9 @@ export default function Servies() {
               hall and make your birthday ceremony an event to remember with
               us!"
             </p>
-            <a href="/" className="btn btn-primary">
+            <Link to="/booking" className="btn btn-primary">
               Book now
-            </a>
+            </Link>
           </div>
         </div>
 
@@ -69,9 +71,9 @@ export default function Servies() {
               "With our banquet hall, you can celebrate weddings, birthdays, and
               other special ceremonies in a welcoming and stylish environment."
             </p><br/><br/><br/><br/>
-            <a href="/" className="btn btn-primary">
+            <Link to="/booking" className="btn btn-primary">
               Book now
-            </a>
+            </Link>
           </div>
         </div>
       </div>

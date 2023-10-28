@@ -1,6 +1,7 @@
 // import logo from './logo.svg';
 import "./App.css";
 import About from "./components/About";
+import Booking from "./components/Booking";
 import Footer from "./components/Footer";
 import Gallary from "./components/Gallary";
 import LogIn from "./components/LogIn";
@@ -26,8 +27,11 @@ function App() {
         <Route path="/login" element={<LogIn />} />
         <Route path="/visit" element={<Visit />} />
         <Route path="/gallary" element={<Gallary />} />
+        <Route path="/booking" element={<Booking/>} />
+
       </Routes>
       <Servies/>
+      
       <Footer />
     </>
   );

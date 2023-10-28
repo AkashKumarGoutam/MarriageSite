@@ -24,7 +24,7 @@ export default function Services(props) {
   <img src="./catering.webp" className="card-img-top" alt="kjgjkhg"/>
   <div className="card-body">
     <h5 className="card-title"><i>Catering</i></h5>
-    <p className="card-text">hvuh ubuiewb iubwuie ubwufbu ibuiewbij buwiefbweui ubdwui  duewb u buwbuib uibduwi uib</p>
+    <p className="card-text">Indulge in culinary delights at our banquet hall's catering section, where we offer the finest culinary experiences. Our expert chefs and top-notch facilities ensure that your dining experience is exceptional. From exquisite dishes to impeccable service, we're committed to making your event truly unforgettable.</p>
     </div>
   </div>
 </div>
@@ -35,7 +35,7 @@ export default function Services(props) {
   <img src="./photography.webp" className="card-img-top" alt="kjgjkhg"/>
   <div className="card-body">
     <h5 className="card-title"><i>photography</i></h5>
-    <p className="card-text">hvuh ubuiewb iubwuie ubwufbu ibuiewbij buwiefbweui ubdwui  duewb u buwbuib uibduwi ui</p>
+    <p className="card-text">Immerse yourself in the world of photography and video making at our banquet hall, where we offer the best facilities for capturing your special moments. From state-of-the-art equipment to skilled professionals, we ensure your memories are flawlessly preserved. Now the chance to Make your day memorable.</p>
     </div>
   </div>
 </div>
@@ -46,7 +46,7 @@ export default function Services(props) {
   <img src="./invitation.webp" className="card-img-top" alt="kjgjkhg"/>
   <div className="card-body">
     <h5 className="card-title"><i>Invitation</i></h5>
-    <p className="card-text">hvuh ubuiewb iubwuie ubwufbu ibuiewbij buwiefbweui ubdwui  duewb u buwbuib uibduwi ui</p>
+    <p className="card-text">Elevate your celebrations with our bespoke invitation card design service. At our banquet hall, we specialize in crafting unique and elegant invitation cards that set the perfect tone for your event, ensuring every detail reflects your style and the importance of the occasion.</p>
     </div>
   </div>
 </div>
@@ -58,7 +58,7 @@ export default function Services(props) {
   <img src="./music-band.webp" className="card-img-top" alt="kjgjkhg"/>
   <div className="card-body">
     <h5 className="card-title"><i>Music-Band</i></h5>
-    <p className="card-text">jfie ibfuie fuief uebufbeubf ebfuibef eubifubrfj aibeuf jibuer aebufae  uifb jeifubejb </p>
+    <p className="card-text">Experience the magic of live music and bands at our banquet hall. Our dedicated stage and professional sound systems create an unforgettable musical atmosphere for your event. Let the melodies fill the air and make your celebration truly special. </p>
     </div>
   </div>
 </div>
@@ -71,7 +71,7 @@ export default function Services(props) {
   <img src="./flower11.webp" className="card-img-top" alt="kjgjkhg"/>
   <div className="card-body">
     <h5 className="card-title"><i>Flower</i></h5>
-    <p className="card-text">jhweihjfiih uhf ufbu efi hei ubnehf ubeh ub jfek nfeio oifn infn  ijfiefi </p>
+    <p className="card-text">Elevate your event with our exquisite flower decorations. Our banquet hall offers a wide array of floral arrangements to create a captivating ambiance. From elegant centerpieces to stunning backdrops, our floral designs will transform your occasion into a blooming paradise. </p>
     </div>
   </div>
 </div>
@@ -83,7 +83,7 @@ export default function Services(props) {
   <img src="./cake.webp" className="card-img-top" alt="kjgjkhg"/>
   <div className="card-body">
     <h5 className="card-title"><i>Cake</i></h5>
-    <p className="card-text">kwndknk jbfj ufh e uhfin efh h fihfeihf  rbre ub bg erbg rui ejbnebf febf ebf efniebfie  ub f </p>
+    <p className="card-text">Indulge your sweet cravings with our exquisite cakes, available for all occasions at our banquet hall. Our cake facility ensures your celebrations are complete with delicious and beautifully crafted desserts to sweeten every moment. </p>
     </div>
   </div>
 </div>

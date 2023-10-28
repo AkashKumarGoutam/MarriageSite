@@ -19,7 +19,7 @@ export default function Gallary() {
 }}>GALLARY</h2>
 		<img src="./heading-bottom-line.webp" alt='kkjn'/>
 	</div>
-        <p className="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely.</p>
+        <p className="lead text-muted">Discover the elegance of our exquisite banquet hall through captivating images on our website. Explore the enchanting decor and spacious interiors that create the perfect ambiance for your special events. Let our gallery showcase the beauty of our venue, setting the stage for unforgettable memories.</p>
       
       </div>
     </div>
@@ -33,7 +33,7 @@ export default function Gallary() {
           <div className="card shadow-sm">
 <img src="./catering.webp" alt="jkhgjg"/>
             <div className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p className="card-text">Work under progress</p>
               
             </div>
           </div>
@@ -43,7 +43,7 @@ export default function Gallary() {
           <div className="card shadow-sm">
 <img src="./flower.webp" alt="jkhgjg"/>
             <div className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p className="card-text">Work under progress</p>
               
             </div>
           </div>
@@ -52,7 +52,7 @@ export default function Gallary() {
           <div className="card shadow-sm">
 <img src="./catering.webp" alt="jkhgjg"/>
             <div className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p className="card-text">Work under progress</p>
               
             </div>
           </div>
@@ -62,7 +62,7 @@ export default function Gallary() {
           <div className="card shadow-sm">
 <img src="./catering.webp" alt="jkhgjg"/>
             <div className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p className="card-text">Work under progress</p>
               
             </div>
           </div>
@@ -71,7 +71,7 @@ export default function Gallary() {
           <div className="card shadow-sm">
 <img src="./catering.webp" alt="jkhgjg"/>
             <div className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p className="card-text">Work under progress</p>
               
             </div>
           </div>
@@ -80,7 +80,7 @@ export default function Gallary() {
           <div className="card shadow-sm">
 <img src="./catering.webp" alt="jkhgjg"/>
             <div className="card-body">
-              <p className="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p className="card-text">Work under progress</p>
               
             </div>
           </div>
