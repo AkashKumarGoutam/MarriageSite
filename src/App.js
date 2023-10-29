@@ -1,4 +1,5 @@
 // import logo from './logo.svg';
+import { useState } from "react";
 import "./App.css";
 import About from "./components/About";
 import Booking from "./components/Booking";
@@ -14,6 +15,12 @@ import Visit from "./components/Visit";
 import { Route, Routes } from "react-router-dom";
 
 function App() {
+  const [isOnTop, setIsOnTop] = useState(false)
+
+  const handleIsOnTop = () => {
+    setIsOnTop(!isOnTop)
+  }
+
   return (
     <>
       <Navbar />
@@ -28,12 +35,12 @@ function App() {
         <Route path="/login" element={<LogIn />} />
         <Route path="/visit" element={<Visit />} />
         <Route path="/gallary" element={<Gallary />} />
-        <Route path="/booking" element={<Booking/>} />
+        <Route path="/booking" element={<Booking isOnTop={isOnTop}/>} />
         <Route path="/schedule" element={<Schedule/>} />
 
 
       </Routes>
-      <Servies/>
+      <Servies handleIsOnTop={handleIsOnTop}/>
       
       <Footer />
     </>

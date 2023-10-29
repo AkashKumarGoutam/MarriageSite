@@ -1,7 +1,7 @@
 
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 
-export default function Booking(){
+export default function Booking({isOnTop}){
   const [formData, setFormData] = useState({
     name: '',
     text: '',
@@ -23,6 +23,19 @@ export default function Booking(){
     // Here, you can add your form submission logic or API call
     console.log('Form submitted:', formData);
   };
+
+  const handleTopScroll = () => {
+    window.scrollTo(0, 0);
+  }
+
+  useEffect(() => {
+    handleTopScroll()
+  },[])
+
+
+  useEffect(() => {
+    handleTopScroll()
+  },[isOnTop])
 
   return (
     <div  className="container border border-light-subtle mt-5">

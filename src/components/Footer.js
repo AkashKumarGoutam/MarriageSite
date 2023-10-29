@@ -67,34 +67,34 @@ export default function Footer() {
 
                 <ul className="footer-links" style={listStyle}>
                   <li style={liStyle}>
-                    <a style={ancharStyle} href="index.html">
+                    <a style={ancharStyle} href="/">
                       Home <span className="icon icon-arrow-right2"></span>
                     </a>
                   </li>
                   <li style={liStyle}>
-                    <a style={ancharStyle} href="call_for_paper.html">
-                      Call for Paper{" "}
+                    <a style={ancharStyle} href="/services">
+                      Services
                       <span className="icon icon-arrow-right2"></span>
                     </a>
                   </li>
                   <li style={liStyle}>
-                    <a style={ancharStyle} href="schedule.html">
+                    <a style={ancharStyle} href="/schedule">
                       Schedule <span className="icon icon-arrow-right2"></span>
                     </a>
                   </li>
                   <li style={liStyle}>
-                    <a style={ancharStyle} href="registration.html">
+                    <a style={ancharStyle} href="/">
                       Registration{" "}
                       <span className="icon icon-arrow-right2"></span>
                     </a>
                   </li>
                   <li style={liStyle}>
-                    <a style={ancharStyle} href="events.html">
+                    <a style={ancharStyle} href="/">
                       Event <span className="icon icon-arrow-right2"></span>
                     </a>
                   </li>
                   <li style={liStyle}>
-                    <a style={ancharStyle} href="contact.html">
+                    <a style={ancharStyle} href="/">
                       Contact <span className="icon icon-arrow-right2"></span>
                     </a>
                   </li>
