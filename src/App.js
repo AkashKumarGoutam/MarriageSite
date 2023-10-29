@@ -7,6 +7,7 @@ import Gallary from "./components/Gallary";
 import LogIn from "./components/LogIn";
 import Mainbody from "./components/Mainbody";
 import Navbar from "./components/Navbar";
+import Schedule from "./components/Schedule";
 import Services from "./components/Services";
 import Servies from "./components/Servies";
 import Visit from "./components/Visit";
@@ -28,6 +29,8 @@ function App() {
         <Route path="/visit" element={<Visit />} />
         <Route path="/gallary" element={<Gallary />} />
         <Route path="/booking" element={<Booking/>} />
+        <Route path="/schedule" element={<Schedule/>} />
+
 
       </Routes>
       <Servies/>

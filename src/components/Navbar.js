@@ -96,6 +96,16 @@ export default function Navbar() {
                   <li className="nav-item">
                     <Link
                       className="nav-link"
+                      to="/schedule"
+                      onClick={closeOffcanvas}
+                    >
+                      Schedule
+                    </Link>
+                  </li>
+                  
+                  <li className="nav-item">
+                    <Link
+                      className="nav-link"
                       to="/gallary"
                       onClick={closeOffcanvas}
                     >
@@ -122,13 +132,14 @@ export default function Navbar() {
                   </li>
                   <li className="nav-item">
                     <Link
-                      className="nav-link btn btn-primary"
+                      className="nav-link "
                       to="/login"
                       onClick={closeOffcanvas}
                     >
                       LogIn
                     </Link>
                   </li>
+                  
                   <li className="nav-item">
                     <Link className="nav-link" to="/" onClick={closeOffcanvas}>
                       <svg className="bi" width="24" height="24"></svg>
